@@ -1,0 +1,62 @@
+# Ignore user-specific files and directories
+AppData/
+Application Data/
+Cookies/
+Documents/My Music/
+Documents/My Pictures/
+Documents/My Videos/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+.android/
+
+# Ignore specific files
+../NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+../NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+../ntuser.dat.LOG1
+../ntuser.dat.LOG2
+../ntuser.ini
+../openssl
+../private_key.pem
+
+# Ignore directories
+../OneDrive/
+../Pictures/
+../Saved Games/
+../Videos/
+../mentalmentor/
+
+# Ignore specific files
+../Pie Chart.ipynb
+../Untitled.ipynb
+../Untitled1.ipynb
+
+# Ignore Dart and Flutter specific files and directories
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+.metadata
+.vscode/
+README.md
+analysis_options.yaml
+android/
+build/
+calculator.iml
+flutter_01.log
+ios/
+lib/
+linux/
+macos/
+pubspec.lock
+pubspec.yaml
+test/
+web/
+windows/
+
+
